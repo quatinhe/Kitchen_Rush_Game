@@ -1,0 +1,1 @@
+TO run this code you have to open the cmd on this paste path and run "python gameV3.py"
