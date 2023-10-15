@@ -3,4 +3,4 @@ Welcome! It's with great pleasure that I present github with my first python gam
 
 TO run this code you have to open the cmd on a paste with all this files and run "python gameV3.py"
 
-If you cant run its probably because you probably have a module missing on your computer for example "pygame" or "numpy"
+If you cant run its probably because you probably have a module missing on your computer for example "pygame" or "numpy". You also need of corse "python" installed
